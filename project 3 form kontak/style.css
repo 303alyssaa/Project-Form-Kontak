@@ -1,0 +1,17 @@
+body{
+    background-color: #5b8eba;
+    color: rgb(60, 47, 47);
+    min-height: 100vh;
+    margin: 0;
+}
+.background{
+background-color: white; 
+padding: 33px; 
+width: 400px; 
+border-radius: 10px; 
+border: 2px solid white; 
+margin: 50px auto;
+}
+
+
+
